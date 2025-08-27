@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.Our-Doctors{
+    background-color: #35c6f3;
+    height: 300px;
+    
+}
+
+.Our-Doctors h1{
+    color: white;
+    padding-top: 120px;
+    padding-left: 50px;
+}
+
+.doctors h1{
+    text-align: center;
+    
+}
+
+.All{
+    background-color: blueviolet;
+    height: 500px;
+    width: 300px;
+    
+}
+.doctors{
+    display: flex;
+    gap: 20px;
+    margin-top: 200px;
+    
+    
+}
+.All img{
+    width: 300px;
+    height: 300px;
+}
+
+.name h4{
+    color: white;
+}
+.name h4{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+.name i{
+    color: white;
+    
+}
+
+
+.check{
+    background-color: aqua;
+     width: 300px;
+     border: none;
+     height: 30px;
+     margin-top: 120px;
+}
